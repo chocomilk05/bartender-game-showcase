@@ -8,7 +8,7 @@ the player’s drink quality and choices influence the story and
 their relationships with customers.
 
 ## Status
-Work in progress — early development.
+In development
 
 ## Planned Features
 - Semi-realistic drink-making system
@@ -32,6 +32,7 @@ Work in progress — early development.
 - C#
 - Custom hand-drawn assets
 
-## Notes
-This project is a learning project and is actively being developed.
+## Source Code
+The full source code and assets are kept private.
+This repository exists as a portfolio showcase.
 
