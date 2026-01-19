@@ -1,4 +1,4 @@
-# Project Name (Working Title)
+# Starlight Bar (Working Title)
 
 A story-centered bartending game where the player mixes cocktails and
 interacts with customers in a cozy bar setting.
