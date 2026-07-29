@@ -1,22 +1,28 @@
-# Starlight Bar (Working Title)
+# Title is in progress
 
-A story-centered bartending game where the player mixes cocktails and
-interacts with customers in a cozy bar setting.
+Hello !!
+My friend and I have been visual novel fans since forever and have played a plethora of them over the years in multiple formats (weve been playing them for over 10 years hehe), so we thought why not make one ourselves !
 
-The game is intentionally not competitive or fast-paced. Instead,
-the player’s drink quality and choices influence the story and
-their relationships with customers.
+A romantic visual novel where the player mixes cocktails and
+interacts with customers in a cozy bar setting
+
+The player’s drink quality and choices influence the story and
+their relationships with customers
+
+There are two love interests: a workaholic detective who's not really who they seem, an actor/actress who has been obsessed with you since they met you
+Also other flirtable customers !! (bc flirting is fun <3)
 
 ## Status
 In development
 
 ## Planned Features
-- Semi-realistic drink-making system
-- Special signature drinks
+- As free as possible drink-making system
+- Customizable mc; with custom pronouns and appearance
+!! - Ability to choose the love interests' genders !!
 - Customer reactions based on drink quality
 - Cozy bar atmosphere
 - Customer relationships that evolve over time
-- Interactive bar counter and back bar
+- Interactive bar counter
 - Wide variety of cocktails
 - Player-designed custom drink
 - In-game cocktail menu with a custom font
@@ -28,11 +34,10 @@ In development
 - Tables and seating visuals after ordering
 
 ## Tech Used
-- Unity
-- C#
+- Renpy
+- Python
 - Custom hand-drawn assets
 
 ## Source Code
-The full source code and assets are kept private.
-This repository exists as a portfolio showcase.
+The full source code and assets are kept private mostly because i don't want to share the script and give away spoilers
 
